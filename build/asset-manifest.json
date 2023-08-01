@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a27b4d7.css",
+    "main.js": "/static/js/main.f54ac491.js",
+    "static/js/787.e7b59482.chunk.js": "/static/js/787.e7b59482.chunk.js",
+    "static/media/song1.mp4": "/static/media/song1.4c79bffec401a0dcba14.mp4",
+    "static/media/song4.mp4": "/static/media/song4.fcd9ac895c8db6b92e8d.mp4",
+    "static/media/song13.mp4": "/static/media/song13.471abe6016f748a3fb02.mp4",
+    "static/media/song14.mp4": "/static/media/song14.a232dcee7220331d2dc1.mp4",
+    "static/media/song6.mp4": "/static/media/song6.b399c07e85e29bcebd42.mp4",
+    "static/media/song7.mp4": "/static/media/song7.dfc790cc352e4abfca16.mp4",
+    "static/media/song9.mp4": "/static/media/song9.0257cb86963131acd3d1.mp4",
+    "static/media/song11.mp4": "/static/media/song11.8df9d126b01b615ccd36.mp4",
+    "static/media/song5.mp4": "/static/media/song5.a6e7c64bf538a0193bc6.mp4",
+    "static/media/song12.mp4": "/static/media/song12.c3cbaf372d47ec415ae8.mp4",
+    "static/media/song2.mp4": "/static/media/song2.150b0e738a3e3406138e.mp4",
+    "static/media/song10.mp4": "/static/media/song10.00403e81db8ae56e1aa3.mp4",
+    "static/media/song8.mp4": "/static/media/song8.bbbd2cafcf22d394c998.mp4",
+    "static/media/song3.mp4": "/static/media/song3.d9348a73c316a37d8fec.mp4",
+    "static/media/Chorni-Sidhu-Moose-Wala.jpg": "/static/media/Chorni-Sidhu-Moose-Wala.929eaa070b6940156d19.jpg",
+    "static/media/glock.jpeg": "/static/media/glock.0a2c90f32883d7bb33bc.jpeg",
+    "static/media/baba-bhali-kre.jpg": "/static/media/baba-bhali-kre.aed9a60df9f38532852b.jpg",
+    "static/media/raah.jpg": "/static/media/raah.0c8e73f1220c58ec2868.jpg",
+    "static/media/dua.jpg": "/static/media/dua.4db93b45b60e009bcdc7.jpg",
+    "static/media/vaardaat.jpg": "/static/media/vaardaat.3cc59fa31ceab0ddb438.jpg",
+    "static/media/Cheques.jpg": "/static/media/Cheques.4af0be0271bbaf8aaec4.jpg",
+    "static/media/hasde-hi-rhne-aa.jpg": "/static/media/hasde-hi-rhne-aa.ed4a92bbf3611f0545d8.jpg",
+    "static/media/ilzaam.jpg": "/static/media/ilzaam.93d18d2ef783c3bd8cc0.jpg",
+    "static/media/kali-nagni.jpg": "/static/media/kali-nagni.f1c8aed0fe4409affcfd.jpg",
+    "static/media/stick-talk.jpg": "/static/media/stick-talk.377224f88ccf2291af78.jpg",
+    "static/media/geet-lagda.webp": "/static/media/geet-lagda.cf8e84ae10a0bc2e6fd9.webp",
+    "static/media/face-2-face.webp": "/static/media/face-2-face.fe8025ae919318dfa395.webp",
+    "static/media/california-love.jpeg": "/static/media/california-love.1999a8f64b6be1771c69.jpeg",
+    "index.html": "/index.html",
+    "main.6a27b4d7.css.map": "/static/css/main.6a27b4d7.css.map",
+    "main.f54ac491.js.map": "/static/js/main.f54ac491.js.map",
+    "787.e7b59482.chunk.js.map": "/static/js/787.e7b59482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a27b4d7.css",
+    "static/js/main.f54ac491.js"
+  ]
+}
